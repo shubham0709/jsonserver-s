@@ -1,20 +1,96 @@
 {
-  "users": [
+  "cars": [
     {
-      "id": 1,
-      "name": "Chandra",
-      "age": 29,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "brand": "Mercedes",
+      "type": "automated",
+      "year": 2006,
+      "kms": 232323,
+      "Description": "someone is here",
+      "Price": 78333,
+      "id": 3
     },
     {
-      "id": 1,
-      "name": "Nrupul",
-      "age": 32,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "FSD"
+      "brand": "McLaren",
+      "type": "automated",
+      "year": 2000,
+      "kms": 1234,
+      "Description": "delascmak",
+      "Price": 32400,
+      "id": 7
+    },
+    {
+      "brand": "Tesla",
+      "type": "manual",
+      "year": 2004,
+      "kms": 89896,
+      "Description": "someone is here",
+      "Price": 0,
+      "id": 9
+    },
+    {
+      "brand": "Buggati",
+      "type": "manual",
+      "year": 2003,
+      "kms": 12000,
+      "Description": "best buggatti",
+      "Price": 9870009,
+      "id": 10
+    },
+    {
+      "brand": "Buggati",
+      "type": "manual",
+      "year": 2003,
+      "kms": 12000,
+      "Description": "best buggatti",
+      "Price": 9870009,
+      "id": 11
+    },
+    {
+      "brand": "Audi",
+      "type": "manual",
+      "year": 2006,
+      "kms": 130001,
+      "Description": "audi as in",
+      "Price": 183023,
+      "id": 12
+    }
+  ],
+  "wishlisted_cars": [
+    {
+      "brand": "McLaren",
+      "type": "automated",
+      "year": 2002,
+      "kms": 1234,
+      "Description": "deltakjdfsnakj",
+      "Price": 87640,
+      "id": 6
+    },
+    {
+      "brand": "Tesla",
+      "type": "manual",
+      "year": 2004,
+      "kms": 89896,
+      "Description": "someone is here",
+      "Price": 0,
+      "id": 9
+    },
+    {
+      "brand": "Mercedes",
+      "type": "automated",
+      "year": 2006,
+      "kms": 232323,
+      "Description": "someone is here",
+      "Price": 78333,
+      "id": 3
+    },
+    {
+      "brand": "McLaren",
+      "type": "automated",
+      "year": 2000,
+      "kms": 1234,
+      "Description": "delascmak",
+      "Price": 32400,
+      "id": 7
     }
   ]
 }
